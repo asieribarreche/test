@@ -2,7 +2,7 @@
 <Results version="1.0">
 <ReportNode type="testrun">
 <ReportNode type="Iteration">
-<ReportNode type="Action">
+<Repor  tNode type="Action">
 <ReportNode type="Context">
 <ReportNode type="Context">
 <ReportNode type="Step">
