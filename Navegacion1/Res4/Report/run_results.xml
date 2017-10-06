@@ -1,0 +1,442 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+	<ReportNode type="testrun">
+		<ReportNode type="Iteration">
+			<ReportNode type="Action">
+				<ReportNode type="Context">
+					<ReportNode type="Context">
+						<ReportNode type="Step">
+							<Data>
+								<Name>Buscar.Set</Name>
+								<Description>"visual studio 2017"</Description>
+								<StartTime>2017-09-18 15:44:25</StartTime>
+								<Result>Done</Result>
+								<Extension>
+									<TestObject>
+										<Repository>Local</Repository>
+										<Path>
+											<Object>
+												<Type>Browser</Type>
+												<Name>
+													<![CDATA[Google]]>
+												</Name>
+											</Object>
+											<Object>
+												<Type>Page</Type>
+												<Name>
+													<![CDATA[Google_2]]>
+												</Name>
+											</Object>
+											<Object>
+												<Type>WebEdit</Type>
+												<Name>
+													<![CDATA[Buscar]]>
+												</Name>
+											</Object>
+										</Path>
+										<Operation>Set</Operation>
+										<OperationData>
+											<![CDATA["visual studio 2017"]]>
+										</OperationData>
+										<Properties>
+											<Property>
+												<Name>
+													<![CDATA[type]]>
+												</Name>
+												<Value>
+													<![CDATA[text]]>
+												</Value>
+											</Property>
+											<Property>
+												<Name>
+													<![CDATA[name]]>
+												</Name>
+												<Value>
+													<![CDATA[q]]>
+												</Value>
+											</Property>
+											<Property>
+												<Name>
+													<![CDATA[html tag]]>
+												</Name>
+												<Value>
+													<![CDATA[INPUT]]>
+												</Value>
+											</Property>
+										</Properties>
+									</TestObject>
+									<IconKey>db53170f7e8a4f3ba1209984c5122af3</IconKey>
+									<IsPlainTextNodeName>True</IsPlainTextNodeName>
+								</Extension>
+							</Data>
+						</ReportNode>
+						<ReportNode type="Step">
+							<Data>
+								<Name>Buscar.Submit</Name>
+								<Description />
+								<StartTime>2017-09-18 15:44:26</StartTime>
+								<Result>Done</Result>
+								<Extension>
+									<TestObject>
+										<Repository>Local</Repository>
+										<Path>
+											<Object>
+												<Type>Browser</Type>
+												<Name>
+													<![CDATA[Google]]>
+												</Name>
+											</Object>
+											<Object>
+												<Type>Page</Type>
+												<Name>
+													<![CDATA[Google_2]]>
+												</Name>
+											</Object>
+											<Object>
+												<Type>WebEdit</Type>
+												<Name>
+													<![CDATA[Buscar]]>
+												</Name>
+											</Object>
+										</Path>
+										<Operation>Submit</Operation>
+										<Properties>
+											<Property>
+												<Name>
+													<![CDATA[type]]>
+												</Name>
+												<Value>
+													<![CDATA[text]]>
+												</Value>
+											</Property>
+											<Property>
+												<Name>
+													<![CDATA[name]]>
+												</Name>
+												<Value>
+													<![CDATA[q]]>
+												</Value>
+											</Property>
+											<Property>
+												<Name>
+													<![CDATA[html tag]]>
+												</Name>
+												<Value>
+													<![CDATA[INPUT]]>
+												</Value>
+											</Property>
+										</Properties>
+									</TestObject>
+									<IconKey>db53170f7e8a4f3ba1209984c5122af3</IconKey>
+									<IsPlainTextNodeName>True</IsPlainTextNodeName>
+								</Extension>
+							</Data>
+						</ReportNode>
+						<Data>
+							<Name>Google_2</Name>
+							<Description>Page</Description>
+							<StartTime>2017-09-18 15:44:25</StartTime>
+							<Duration>2</Duration>
+							<Result>Done</Result>
+							<Extension>
+								<TestObject>
+									<Repository>Local</Repository>
+									<Path>
+										<Object>
+											<Type>Browser</Type>
+											<Name>
+												<![CDATA[Google]]>
+											</Name>
+										</Object>
+										<Object>
+											<Type>Page</Type>
+											<Name>
+												<![CDATA[Google_2]]>
+											</Name>
+										</Object>
+									</Path>
+									<OperationData>
+										<![CDATA[Page]]>
+									</OperationData>
+								</TestObject>
+								<IconKey>8c980dbd41bb40dd8abc90889fdbd0f2</IconKey>
+								<IsPlainTextNodeName>True</IsPlainTextNodeName>
+							</Extension>
+						</Data>
+					</ReportNode>
+					<ReportNode type="Context">
+						<ReportNode type="Step">
+							<Data>
+								<Name>What's New in Visual Studio.Click</Name>
+								<Description />
+								<StartTime>2017-09-18 15:44:27</StartTime>
+								<Result>Done</Result>
+								<Extension>
+									<TestObject>
+										<Repository>Local</Repository>
+										<Path>
+											<Object>
+												<Type>Browser</Type>
+												<Name>
+													<![CDATA[Google]]>
+												</Name>
+											</Object>
+											<Object>
+												<Type>Page</Type>
+												<Name>
+													<![CDATA[visual studio 2017 - Buscar]]>
+												</Name>
+											</Object>
+											<Object>
+												<Type>Link</Type>
+												<Name>
+													<![CDATA[What's New in Visual Studio]]>
+												</Name>
+											</Object>
+										</Path>
+										<Operation>Click</Operation>
+										<Properties>
+											<Property>
+												<Name>
+													<![CDATA[text]]>
+												</Name>
+												<Value>
+													<![CDATA[What's New in Visual Studio 2017 | Product Updates and News]]>
+												</Value>
+											</Property>
+											<Property>
+												<Name>
+													<![CDATA[html tag]]>
+												</Name>
+												<Value>
+													<![CDATA[A]]>
+												</Value>
+											</Property>
+										</Properties>
+									</TestObject>
+									<IconKey>03d14ca0918a4b6689d55937e6feb0a6</IconKey>
+									<IsPlainTextNodeName>True</IsPlainTextNodeName>
+								</Extension>
+							</Data>
+						</ReportNode>
+						<Data>
+							<Name>visual studio 2017 - Buscar</Name>
+							<Description>Page</Description>
+							<StartTime>2017-09-18 15:44:27</StartTime>
+							<Duration>1</Duration>
+							<Result>Done</Result>
+							<Extension>
+								<TestObject>
+									<Repository>Local</Repository>
+									<Path>
+										<Object>
+											<Type>Browser</Type>
+											<Name>
+												<![CDATA[Google]]>
+											</Name>
+										</Object>
+										<Object>
+											<Type>Page</Type>
+											<Name>
+												<![CDATA[visual studio 2017 - Buscar]]>
+											</Name>
+										</Object>
+									</Path>
+									<OperationData>
+										<![CDATA[Page]]>
+									</OperationData>
+								</TestObject>
+								<IconKey>8c980dbd41bb40dd8abc90889fdbd0f2</IconKey>
+								<IsPlainTextNodeName>True</IsPlainTextNodeName>
+							</Extension>
+						</Data>
+					</ReportNode>
+					<ReportNode type="Context">
+						<ReportNode type="Step">
+							<Data>
+								<Name>What's New in Visual Studio.Sync</Name>
+								<Description />
+								<StartTime>2017-09-18 15:44:28</StartTime>
+								<Result>Done</Result>
+								<Extension>
+									<TestObject>
+										<Repository>Local</Repository>
+										<Path>
+											<Object>
+												<Type>Browser</Type>
+												<Name>
+													<![CDATA[Google]]>
+												</Name>
+											</Object>
+											<Object>
+												<Type>Page</Type>
+												<Name>
+													<![CDATA[What's New in Visual Studio]]>
+												</Name>
+											</Object>
+										</Path>
+										<Operation>Sync</Operation>
+									</TestObject>
+									<IconKey>8c980dbd41bb40dd8abc90889fdbd0f2</IconKey>
+									<IsPlainTextNodeName>True</IsPlainTextNodeName>
+								</Extension>
+							</Data>
+						</ReportNode>
+						<Data>
+							<Name>What's New in Visual Studio</Name>
+							<Description>Page</Description>
+							<StartTime>2017-09-18 15:44:28</StartTime>
+							<Duration>1</Duration>
+							<Result>Done</Result>
+							<Extension>
+								<TestObject>
+									<Repository>Local</Repository>
+									<Path>
+										<Object>
+											<Type>Browser</Type>
+											<Name>
+												<![CDATA[Google]]>
+											</Name>
+										</Object>
+										<Object>
+											<Type>Page</Type>
+											<Name>
+												<![CDATA[What's New in Visual Studio]]>
+											</Name>
+										</Object>
+									</Path>
+									<OperationData>
+										<![CDATA[Page]]>
+									</OperationData>
+								</TestObject>
+								<IconKey>8c980dbd41bb40dd8abc90889fdbd0f2</IconKey>
+								<IsPlainTextNodeName>True</IsPlainTextNodeName>
+							</Extension>
+						</Data>
+					</ReportNode>
+					<ReportNode type="Step">
+						<Data>
+							<Name>Google.Close All Tabs</Name>
+							<Description />
+							<StartTime>2017-09-18 15:44:29</StartTime>
+							<Result>Done</Result>
+							<Extension>
+								<TestObject>
+									<Repository>Local</Repository>
+									<Path>
+										<Object>
+											<Type>Browser</Type>
+											<Name>
+												<![CDATA[Google]]>
+											</Name>
+										</Object>
+									</Path>
+									<Operation>Close All Tabs</Operation>
+								</TestObject>
+								<IconKey>df55ed62d4a34a008d7f116e1d32d3ae</IconKey>
+								<IsPlainTextNodeName>True</IsPlainTextNodeName>
+							</Extension>
+						</Data>
+					</ReportNode>
+					<Data>
+						<Name>Google</Name>
+						<Description>&lt;table&gt;&lt;tr&gt;&lt;td&gt;&lt;span style="text-align : left; font-size : 12px; "&gt;Local Browser&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</Description>
+						<StartTime>2017-09-18 15:44:25</StartTime>
+						<Duration>4</Duration>
+						<Result>Done</Result>
+						<Extension>
+							<TestObject>
+								<Repository>Local</Repository>
+								<Path>
+									<Object>
+										<Type>Browser</Type>
+										<Name>
+											<![CDATA[Google]]>
+										</Name>
+									</Object>
+								</Path>
+								<OperationData>
+									<![CDATA[<table><tr><td><span style="text-align : left; font-size : 12px; ">Local Browser</span></td></tr></table>]]>
+								</OperationData>
+							</TestObject>
+							<IconKey>df55ed62d4a34a008d7f116e1d32d3ae</IconKey>
+							<IsPlainTextNodeName>True</IsPlainTextNodeName>
+						</Extension>
+					</Data>
+				</ReportNode>
+				<Data>
+					<Name>Action1</Name>
+					<Description />
+					<StartTime>2017-09-18 15:44:25</StartTime>
+					<Duration>4</Duration>
+					<Result>Done</Result>
+					<InputParameters />
+					<Extension>
+						<IconKey>690f1ff0835940f9abc22b76073aca0b</IconKey>
+						<IsPlainTextNodeName>True</IsPlainTextNodeName>
+					</Extension>
+				</Data>
+			</ReportNode>
+			<Data>
+				<Name>Action0</Name>
+				<Description />
+				<StartTime>2017-09-18 15:44:23</StartTime>
+				<Duration>6</Duration>
+				<Result>Done</Result>
+				<Extension>
+					<IconKey>986cfa7943f74a4c9a11aada45404b4f</IconKey>
+					<IsPlainTextNodeName>True</IsPlainTextNodeName>
+				</Extension>
+				<Index>1</Index>
+				<TestedApplications>
+					<TestedApplication>
+						<RuntimeEngineInfo />
+						<Name>Microsoft Internet Explorer</Name>
+						<Path>C:\Program Files\Internet Explorer\IEXPLORE.EXE</Path>
+						<Version>11</Version>
+						<Technology>web</Technology>
+						<Reserved />
+						<AdditionalInfos>
+							<Info>www.google.es</Info>
+						</AdditionalInfos>
+					</TestedApplication>
+				</TestedApplications>
+			</Data>
+		</ReportNode>
+		<Data>
+			<Name>Navegacion1</Name>
+			<ToolName>HPE Unified Functional Testing</ToolName>
+			<ToolVersion>14.1</ToolVersion>
+			<Description />
+			<StartTime>2017-09-18 15:44:21</StartTime>
+			<Duration>8</Duration>
+			<Result>Done</Result>
+			<InputParameters />
+			<Extension>
+				<IconKey>7de78ae4f50d473f92796a5958c72706</IconKey>
+				<IsPlainTextNodeName>True</IsPlainTextNodeName>
+			</Extension>
+			<Environment>
+				<Timezone>+02:00:00</Timezone>
+				<Locale>español (España, alfabetización internacional)</Locale>
+				<User>Globe</User>
+				<CpuInfo>Intel(R) Core(TM) i7-5500U CPU @ 2.40GHz</CpuInfo>
+				<NumberOfCores>4</NumberOfCores>
+				<TotalMemory>8107</TotalMemory>
+				<HostName>DELLTOUCH</HostName>
+				<OSInfo>Windows 10</OSInfo>
+			</Environment>
+			<TestedApplications />
+			<Links>
+				<Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+			</Links>
+		</Data>
+	</ReportNode>
+	<GeneralInfo>
+		<ResultName>Res4</ResultName>
+		<RunStartTime>2017-09-18 15:44:21</RunStartTime>
+		<Timezone>+02:00:00</Timezone>
+		<OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+		<OrchestrationToolVersion>14.1</OrchestrationToolVersion>
+	</GeneralInfo>
+</Results>
